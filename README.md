@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpsilv.17/)
 
-![Izuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=izunaa1&show_icons=true&theme=synthwave)
+![Izuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=izunaa1&show_icons=true&theme=gruvbox)
 
 ## <p style="color: purple;">Technologies I use on a daily basis</p>
 
